@@ -1,0 +1,19 @@
+{
+  "name": "nytreact",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nalease/NYTreact.git"
+  },
+  "author": "Nalease Marrow",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nalease/NYTreact/issues"
+  },
+  "homepage": "https://github.com/nalease/NYTreact#readme"
+}
